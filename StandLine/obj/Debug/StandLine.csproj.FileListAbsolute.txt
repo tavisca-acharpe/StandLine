@@ -1,0 +1,7 @@
+C:\Users\acharpe\source\repos\StandLine\StandLine\bin\Debug\StandLine.exe.config
+C:\Users\acharpe\source\repos\StandLine\StandLine\bin\Debug\StandLine.exe
+C:\Users\acharpe\source\repos\StandLine\StandLine\bin\Debug\StandLine.pdb
+C:\Users\acharpe\source\repos\StandLine\StandLine\obj\Debug\StandLine.csprojAssemblyReference.cache
+C:\Users\acharpe\source\repos\StandLine\StandLine\obj\Debug\StandLine.csproj.CoreCompileInputs.cache
+C:\Users\acharpe\source\repos\StandLine\StandLine\obj\Debug\StandLine.exe
+C:\Users\acharpe\source\repos\StandLine\StandLine\obj\Debug\StandLine.pdb
